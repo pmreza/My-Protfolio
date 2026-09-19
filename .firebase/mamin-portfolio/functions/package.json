@@ -1,0 +1,74 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "description": "A minimal, pixel-perfect developer portfolio, blog and products.",
+  "homepage": "https://abdulrehmanwaseem.me",
+  "license": "MIT",
+  "author": {
+    "name": "Abdul Rehman",
+    "email": "contact@abdulrehmanwaseem.me",
+    "url": "https://github.com/abdulrehmanwaseem"
+  },
+  "contributors": [
+    {
+      "name": "Abdul Rehman",
+      "email": "contact@abdulrehmanwaseem.me",
+      "url": "https://github.com/abdulrehmanwaseem"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulrehmanwaseem/My-Portfolio.git"
+  },
+  "dependencies": {
+    "@bprogress/next": "^3.2.12",
+    "@date-fns/tz": "^1.4.1",
+    "@hookform/resolvers": "^4.1.0",
+    "@ncdai/react-wheel-picker": "^1.0.18",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cmdk": "^1.1.1",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "framer-motion": "^12.27.0",
+    "fumadocs-core": "^16.0.0",
+    "geist": "^1.5.1",
+    "jotai": "^2.12.5",
+    "libphonenumber-js": "^1.12.4",
+    "lucide-react": "^0.544.0",
+    "motion": "^12.18.1",
+    "next": "16.0.7",
+    "next-mdx-remote": "^6.0.0",
+    "next-themes": "^0.4.6",
+    "pullcord": "^0.1.0",
+    "radix-ui": "^1.4.3",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "react-fast-marquee": "^1.6.5",
+    "react-hook-form": "^7.54.2",
+    "react-markdown": "^10.1.0",
+    "react-use": "^17.6.0",
+    "schema-dts": "^1.1.5",
+    "sharp": "^0.34.3",
+    "sonner": "^2.0.5",
+    "swr": "^2.3.3",
+    "tailwind-merge": "^3.3.1",
+    "vcard-creator": "^0.7.2",
+    "zod": "^3.25.0",
+    "firebase-frameworks": "^0.11.0",
+    "firebase-functions": "^6.0.1",
+    "firebase-admin": "^11.11.1"
+  },
+  "resolutions": {
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2"
+  },
+  "engines": {
+    "node": "22.x",
+    "pnpm": ">=9"
+  },
+  "packageManager": "pnpm@10.25.0",
+  "main": "server.js"
+}

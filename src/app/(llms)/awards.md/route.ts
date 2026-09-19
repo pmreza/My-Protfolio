@@ -1,6 +1,6 @@
 import { AWARDS } from "@/features/profile/data/awards";
 
-const content = `# Awards
+const content = `# Key Milestones
 
 ${AWARDS.map((item) => `## ${item.prize} | ${item.title}\n\n${item.description}`).join("\n\n")}
 `;

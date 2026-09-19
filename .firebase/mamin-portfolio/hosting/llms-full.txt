@@ -1,0 +1,258 @@
+<SYSTEM>This document contains comprehensive information about Mohammad Amin's professional profile, portfolio, and blog content. It includes personal details, work experience, projects, achievements, and all published blog posts. This data is formatted for consumption by Large Language Models (LLMs) to provide accurate and up-to-date information about Mohammad Amin's background, skills, and expertise as a Design Engineer.</SYSTEM>
+
+# abdulrehmanwaseem.me
+
+> A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Design Engineer.
+
+## About
+
+- **Software Engineer & Full-Stack Developer** focused on Backend architecture and the **.NET ecosystem**.
+- Bachelor's degree in Computer Engineering.
+- **Backend Specialization:** Scalable software using **C#** and **ASP.NET Core**, microservices, relational databases (SQL Server, PostgreSQL), and NoSQL (MongoDB).
+- **Frontend Skills:** Modern, responsive interfaces using **React.js**, **Next.js**, and **Tailwind CSS**. Experience creating 3D interactive web visuals with **Three.js**.
+- Strong foundation in **RESTful API** design, **Authentication/Authorization**, web security, and complete End-to-End software lifecycle management.
+- Experience managing Linux deployments and source code control using Git/GitLab.
+- Dedicated to **Clean Code** principles, leveraging modern technologies to create sustainable value for businesses.
+
+### Personal Information
+
+- First Name: Mohammad Amin
+- Last Name: Ahmadi
+- Display Name: Mohammad Amin
+- Location: Tehran, Iran
+- Website: https://github.com/pmreza
+
+### Social Links
+
+- [LinkedIn](https://linkedin.com/in/mohammad-amin-ahmadi-40631b219)
+- [GitHub](https://github.com/pmreza)
+- [Telegram](https://t.me/p_m_reza)
+
+### Tech Stack
+
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [.NET Core](https://dotnet.microsoft.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://www.python.org/)
+- [Java](https://www.java.com/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [NestJS](https://nestjs.com/)
+- [Angular](https://angular.io/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Django](https://www.djangoproject.com/)
+- [Three.js](https://threejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/)
+- [Docker](https://www.docker.com/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Git](https://git-scm.com/)
+- [Figma](https://www.figma.com/)
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
+- [VS Code](https://code.visualstudio.com/)
+
+## Experience
+
+### Full Stack .Net Developer | Freelance
+
+Duration: 04.2024 - Present
+
+Skills: C#, .NET Core, React.js, Next.js, Tailwind CSS, Three.js, PostgreSQL, SQL Server, MongoDB, Git, GitLab, Docker
+
+- Experienced Full-Stack Developer in designing, developing, and deploying modern, secure web applications.
+- Built backends and APIs: Designed and implemented efficient, standard RESTful APIs.
+- Database Management: Mastered design and operations of relational databases (SQL Server, PostgreSQL) and non-relational (MongoDB) based on project needs.
+- Frontend Development: Designed responsive, attractive UI using React.js and Tailwind CSS. Implemented 3D experiences with Three.js and utilized Next.js for SSR and SEO.
+- Security & Auth: Implemented precise authentication/authorization and web security standards (Rate Limiting, XSS, CSRF protection).
+- Deployment & Infrastructure: Successfully configured, launched, and deployed projects on Linux servers.
+- Version Control: Managed source code and collaborated using Git and GitLab.
+
+### Full Stack .Net Developer | Pazhoohesh Tose'e
+
+Duration: 04.2021 - 04.2024
+
+Skills: C#, ASP.NET, JavaScript, Figma, RESTful APIs, System Optimization, Frontend Architecture, Backend Architecture
+
+- Developed server-side architecture for e-commerce platforms, landing pages, and web applications using C# and ASP.NET.
+- Programmed dynamic frontend interfaces with JavaScript and precisely implemented Figma UI designs into structured code.
+- Designed and developed efficient APIs for secure, integrated, and fast communication between client and server in full-stack projects.
+- Optimized website performance, debugged systems, and elevated the interaction level of client and server code for better UX.
+
+### WOW Community Manager | iranwow
+
+Duration: 04.2023 - 04.2026
+
+Skills: Community Management, Digital Ecosystems, Market Trading
+
+- Managed valuation and trading of goods and virtual resources via auction systems and free markets in a digital ecosystem.
+- Constantly provided online resources and directly executed financial transactions with other users in a large interactive environment aimed at profit generation.
+
+### Sales Representative | Niusha Nik Darian
+
+Duration: 04.2018 - 04.2021
+
+Skills: Sales, Marketing, Customer Relations, Consultation
+
+- Provided expert health and lifestyle consultation to clients.
+- Marketed and acquired new customers, maintaining continuous and effective relationships to track product effectiveness.
+- Managed the entire sales cycle of Pars Niusha Nik products.
+
+### Bachelor in Computer Engineering | Education
+
+Duration: 09.2021 - 07.2026
+
+Skills: Computer Engineering, Software Engineering, Algorithms
+
+- Focus on software engineering, algorithms, and full-stack development.
+
+## Projects
+
+### Shapouri Plastic
+
+Project URL: https://shapouriplastic.ir
+
+Skills: C#, .NET, JavaScript, Frontend Development, Admin Panel
+
+Full-Stack web application for Shapouri Plastic Industries. Engineered backend with C# .NET and a dynamic responsive frontend using JavaScript. Created comprehensive admin panel for catalog management.
+
+### Online Jewelry Store
+
+Project URL: http://nafiseebadijewellery.com
+
+Skills: Java, Spring Boot, PostgreSQL, RESTful API, E-commerce
+
+Backend architecture using Java and Spring Boot for an online jewelry store. Features e-commerce modules (cart, inventory), secure RESTful APIs, and integration with PostgreSQL database.
+
+### YTDownloader Beta
+
+Project URL: https://github.com/pmreza/YTDownloaderBeta
+
+Skills: C#, Asynchronous Processing, Network IO, API Integration, Clean Code
+
+YouTube content extractor and downloader tool. Implemented asynchronous operations for fast video/audio downloads, IO stream management, and integration with third-party APIs for metadata extraction.
+
+### Insurance Core API & Sales Dashboard
+
+Project URL: https://github.com/pmreza/insurance-sales-dashboard
+
+Skills: ASP.NET Core, Microservices, RESTful API, Enterprise Architecture
+
+Microservices-based insurance management system using ASP.NET Core. Designed core API for business logic and integrated a sales dashboard for policy management and issue tracking.
+
+### Fatemeh Ebadi Booking System
+
+Project URL: https://www.fatemehebadi.com
+
+Skills: Full-Stack, Scheduling Algorithm, Database Design, API Development
+
+Dual-purpose platform for skincare product sales and online service booking. Features a complex scheduling system with conflict resolution, e-commerce cart, and specialized admin dashboard.
+
+## Key Milestones
+
+### Successful Launch | Shapouri Plastic Full-Stack Platform
+
+- Architected and launched a complete Full-Stack web application for Shapouri Plastic Industries.
+- Engineered a high-performance backend using C# .NET to handle robust data processing.
+- Delivered a dynamic and responsive frontend using JavaScript with a comprehensive admin panel for catalog management.
+- Resulted in streamlined operations and improved digital presence for the client.
+
+### Architecture Implementation | Nafis Eebadi Jewellery Backend
+
+- Designed and implemented scalable backend architecture using Java and Spring Boot.
+- Developed robust e-commerce modules including shopping cart and inventory management.
+- Created secure RESTful APIs for seamless frontend integration.
+- Managed complex data structures with PostgreSQL database.
+
+### Open Source Release | YTDownloader Beta Tool
+
+- Released a powerful YouTube content extractor and downloader tool built with C#.
+- Implemented advanced asynchronous operations for rapid video and audio downloads.
+- Handled complex IO stream management for efficient file processing.
+- Integrated third-party APIs for automated metadata extraction.
+
+## Blog
+
+---
+title: "My Tech Journey"
+description: "How I started coding, the challenges I faced, and what I'm learning right now."
+last_updated: "September 19, 2026"
+source: "https://github.com/pmreza/blog/my-tech-journey"
+---
+
+# My Tech Journey
+
+How I started coding, the challenges I faced, and what I'm learning right now.
+
+## Where It All Began
+
+Every developer has a unique story of how they wrote their first line of code. For me, it started with a simple curiosity about how the web works. I remember opening the browser's developer tools for the first time and being amazed that I could change the text on a live website (even if it was only on my screen!).
+
+## The Learning Curve
+
+Learning to code is rarely a straight line. There were days of endless debugging, reading documentation that felt like a foreign language, and the classic "it works on my machine" moments. But the feeling of finally solving a complex bug or seeing my first web page come to life made every frustrating moment worth it.
+
+### Technologies I Fell in Love With
+
+As I continued my journey, I discovered tools and frameworks that made building software incredibly enjoyable:
+
+* **JavaScript & TypeScript:** The foundation of my modern web development.
+* **React & Next.js:** Building dynamic, fast, and scalable user interfaces.
+* **Tailwind CSS:** Styling components rapidly without leaving my HTML.
+
+## What I'm Exploring Now
+
+Technology moves fast, and there's always something new to learn. Currently, I am diving deeper into:
+
+* Server-Side Rendering (SSR) and Server Components
+* Improving web accessibility and performance
+* Creating beautiful UI/UX designs
+
+## The Road Ahead
+
+This journey is a marathon, not a sprint. I'm excited to continue building projects, contributing to the community, and documenting my progress right here on this blog.
+
+*Stay tuned for more updates, tutorials, and project showcases!*
+
+
+Last updated on September 19, 2026
+
+---
+title: "Welcome to PMreza's Portfolio"
+description: "A modern developer portfolio and blog to showcase my work."
+last_updated: "September 19, 2026"
+source: "https://github.com/pmreza/blog/welcome"
+---
+
+# Welcome to PMreza's Portfolio
+
+A modern developer portfolio and blog to showcase my work.
+
+## Hello, World!
+
+Welcome to my brand new portfolio website. I'm **Mohammad Amin Ahmadi** (also known as **PMreza**), a passionate developer who loves building beautiful, functional, and user-friendly web applications.
+
+This website serves as my personal corner on the internet where I can:
+
+* **Showcase my projects**: You'll find a collection of my latest work, side projects, and experiments.
+* **Share my knowledge**: I plan to use this blog to write about the things I learn, coding tutorials, and my tech journey.
+* **Connect**: Feel free to browse around, explore my components, or reach out to me!
+
+## The Tech Stack
+
+This site was built with modern web technologies, ensuring a fast, accessible, and smooth experience:
+
+* **Next.js 15** - React framework for fast, server-rendered applications.
+* **Tailwind CSS v4** - Utility-first CSS framework for rapid UI development.
+* **shadcn/ui** - Beautifully designed, accessible, and customizable components.
+
+I've also customized the design with a retro **pixel font (Silkscreen)** to give it a unique vibe that fits my style perfectly.
+
+## What's Next?
+
+I'll be updating this blog regularly with new content. Stay tuned for deeper dives into projects I've built, coding tips, and more. Thanks for stopping by!
+
+
+Last updated on September 19, 2026

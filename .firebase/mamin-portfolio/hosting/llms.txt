@@ -1,0 +1,14 @@
+# abdulrehmanwaseem.me
+
+> A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Design Engineer.
+
+- [About](https://github.com/pmreza/about.md): A quick intro to me, my tech stack, and how to connect.
+- [Experience](https://github.com/pmreza/experience.md): Highlights from my career and key roles I've taken on.
+- [Projects](https://github.com/pmreza/projects.md): Selected projects that show my skills and creativity.
+- [Key Milestones](https://github.com/pmreza/awards.md): My key milestones and achievements.
+
+
+## Blog
+
+- [My Tech Journey](https://github.com/pmreza/blog/my-tech-journey.mdx): How I started coding, the challenges I faced, and what I'm learning right now.
+- [Welcome to PMreza's Portfolio](https://github.com/pmreza/blog/welcome.mdx): A modern developer portfolio and blog to showcase my work.

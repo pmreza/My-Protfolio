@@ -2,34 +2,33 @@ import type { Award } from "../types/awards";
 
 export const AWARDS: Award[] = [
   {
-    id: "hydthon-ai-hackathon-2026",
-    prize: "Winner",
-    title: "HydThon AI Hackathon 2026 (Trophy)",
-    date: "2026-2",
-    grade: "Institutional",
+    id: "shapouri-plastic-launch",
+    prize: "Successful Launch",
+    title: "Shapouri Plastic Full-Stack Platform",
+    date: "2024-05",
+    grade: "Enterprise",
     description:
-      "- Won 1st place at HydThon AI Hackathon 2026 in Hyderabad\n- Organized by INTRAPRENEUR in collaboration with Net2Apps, aligned with the HISHA Vision\n- Recognized for active participation, innovation, teamwork, and contribution towards building Hyderabad's AI ecosystem",
-    referenceLink:
-      "https://drive.google.com/file/d/1bEGj-n8Bzko6Tay9asxeguldFduiHuaM/view",
+      "- Architected and launched a complete Full-Stack web application for Shapouri Plastic Industries.\n- Engineered a high-performance backend using C# .NET to handle robust data processing.\n- Delivered a dynamic and responsive frontend using JavaScript with a comprehensive admin panel for catalog management.\n- Resulted in streamlined operations and improved digital presence for the client.",
+    referenceLink: "https://shapouriplastic.ir",
   },
   {
-    id: "smit-hackathon-2025",
-    prize: "Top 5 Position",
-    title: "SMIT Coding Night (Hackathon)",
-    date: "2025-11",
-    grade: "Institutional",
+    id: "jewelry-store-backend",
+    prize: "Architecture Implementation",
+    title: "Nafis Eebadi Jewellery Backend",
+    date: "2023-11",
+    grade: "E-commerce",
     description:
-      "- Secured Top 5 position out of 200+ students from Modern Web, ML, AI & Data Science programs\n- 10-hour overnight coding challenge (9 PM to 9 AM)\n- Challenge: Built Smart Student Management System using Python (functions + file handling, no OOP/frameworks)\n- Extended project beyond requirements by converting Python version to FastAPI backend with React frontend\n- Organized by Saylani Mass I.T Training (SMIT) at Memon Society Campus",
-    referenceLink: "https://www.facebook.com/share/p/1Zm9HqzqTZ",
+      "- Designed and implemented scalable backend architecture using Java and Spring Boot.\n- Developed robust e-commerce modules including shopping cart and inventory management.\n- Created secure RESTful APIs for seamless frontend integration.\n- Managed complex data structures with PostgreSQL database.",
+    referenceLink: "http://nafiseebadijewellery.com",
   },
   {
-    id: "fg-cantt-exhibition-2024",
-    prize: "2nd Position",
-    title: "FG Public School Cantt (Exhibition)",
-    date: "2023-9",
-    grade: "College",
+    id: "ytdownloader-beta",
+    prize: "Open Source Release",
+    title: "YTDownloader Beta Tool",
+    date: "2024-02",
+    grade: "Open Source",
     description:
-      "- Participated in provincial coding project competition\n- Developed 3D web-based airplane game\n- Achieved 2nd position at FG Public School Cantt Exhibition for project showcase\n- Demonstrated my game development skills using web technologies",
-    referenceLink: "https://fgdchyd.edu.pk",
+      "- Released a powerful YouTube content extractor and downloader tool built with C#.\n- Implemented advanced asynchronous operations for rapid video and audio downloads.\n- Handled complex IO stream management for efficient file processing.\n- Integrated third-party APIs for automated metadata extraction.",
+    referenceLink: "https://github.com/pmreza/YTDownloaderBeta",
   },
 ];

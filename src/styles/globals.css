@@ -46,6 +46,7 @@
   --font-sans: var(--font-sans);
   --font-mono: var(--font-geist-mono);
   --font-handwriting: var(--font-handwriting), "Segoe Script", cursive;
+  --font-pixel: var(--font-pixel), "Silkscreen", monospace;
 
   --shadow-popover: var(--shadow-popover);
 

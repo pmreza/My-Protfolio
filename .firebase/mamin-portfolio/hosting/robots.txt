@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+Disallow: /og/
+Disallow: /rss/
+Disallow: /vcard/
+Disallow: /llms.txt
+Disallow: /llms-full.txt
+Disallow: /blog.mdx/
+Disallow: /*.mdx
+Disallow: /*.md
+
+Sitemap: https://github.com/pmreza/sitemap.xml

@@ -14,14 +14,6 @@ export function SiteFooter() {
 
         <p className="mb-4 px-4 text-center font-mono text-sm text-balance text-muted-foreground">
           Built by a {""}
-          {/* <a
-            className="link"
-            href="https://www.linkedin.com/in/abdulrehmanwaseem"
-            target="_blank"
-            rel="noopener"
-          >
-            abdul rehman
-          </a> */}
           human. The source code is available on{" "}
           <a
             className="link"

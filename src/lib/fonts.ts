@@ -13,6 +13,15 @@ export const fontHandwriting = FontHandwriting({
   variable: "--font-handwriting",
 });
 
+import { Silkscreen as FontPixel } from "next/font/google";
+
+export const fontPixel = FontPixel({
+  weight: ["400"],
+  display: "swap",
+  subsets: ["latin"],
+  variable: "--font-pixel",
+});
+
 export const fontSans = FontSans({
   weight: ["400", "500", "600"],
   display: "swap",

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0">
+    <channel>
+      <title>Blog | Mohammad Amin</title>
+      <link>https://github.com/pmreza</link>
+      <description>Software engineer and Full-Stack developer with a focus on Backend architecture and the .NET ecosystem.</description>
+      <item>
+          <title>My Tech Journey</title>
+          <link>https://github.com/pmreza/blog/my-tech-journey</link>
+          <description>How I started coding, the challenges I faced, and what I'm learning right now.</description>
+          <pubDate>2026-09-19T00:00:00.000Z</pubDate>
+        </item>
+<item>
+          <title>Welcome to PMreza's Portfolio</title>
+          <link>https://github.com/pmreza/blog/welcome</link>
+          <description>A modern developer portfolio and blog to showcase my work.</description>
+          <pubDate>2026-09-19T00:00:00.000Z</pubDate>
+        </item>
+    </channel>
+  </rss>

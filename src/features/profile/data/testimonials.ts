@@ -1,21 +1,20 @@
-import type { Testimonial, VideoTestimonial } from "../types/testimonials";
+import type { Testimonial, HighlightCard } from "../types/testimonials";
 
-export const VIDEO_TESTIMONIALS: VideoTestimonial[] = [
+export const THANK_YOU_CARDS: HighlightCard[] = [
   {
-    src: "/video/testimonial-edikit.mp4",
-    poster: "/images/testimonial-edikit-poster.jpg",
-    authorAvatar: "/images/edikit-avatar.png",
-    authorName: "Edikit",
-    authorBio: "Motion Graphics Platform",
-    url: "https://www.edikit.net",
+    title: "Thank You",
+    description: "Thank you for taking the time to view my portfolio and explore my work.",
+    iconName: "Heart",
   },
   {
-    src: "/video/testimonial-futurely.mp4",
-    poster: "/images/testimonial-futurely-poster.jpg",
-    authorAvatar: "/images/futurely-avatar.png",
-    authorName: "future.ly",
-    authorBio: "Documentary Film Charity",
-    url: "https://future.ly",
+    title: "Open to Work",
+    description: "I am actively looking for new opportunities and exciting projects to join.",
+    iconName: "Briefcase",
+  },
+  {
+    title: "Let's Connect",
+    description: "Feel free to reach out if you have a project in mind or just want to say hi.",
+    iconName: "MessageSquare",
   },
 ];
 

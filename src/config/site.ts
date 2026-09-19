@@ -3,7 +3,7 @@ import type { NavItem } from "@/types/nav";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://abdulrehmanwaseem.me",
+  url: process.env.APP_URL || "https://github.com/pmreza",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
@@ -23,23 +23,15 @@ export const MAIN_NAV: NavItem[] = [
     title: "Blog",
     href: "/blog",
   },
-  {
-    title: "Products",
-    href: "/products/shopflow",
-  },
-  // {
-  //   title: "Components",
-  //   href: "/components",
-  // },
 ];
 
-export const GITHUB_USERNAME = "abdulrehmanwaseem";
-export const SOURCE_CODE_GITHUB_REPO = "abdulrehmanwaseem/My-Portfolio";
+export const GITHUB_USERNAME = "pmreza";
+export const SOURCE_CODE_GITHUB_REPO = "pmreza/My-Portfolio";
 export const SOURCE_CODE_GITHUB_URL =
-  "https://github.com/abdulrehmanwaseem/My-Portfolio";
+  "https://github.com/pmreza/My-Portfolio";
 
 export const UTM_PARAMS = {
-  utm_source: "https://abdulrehmanwaseem.me",
+  utm_source: "https://github.com/pmreza",
   utm_medium: "portfolio_website",
   utm_campaign: "referral",
 };

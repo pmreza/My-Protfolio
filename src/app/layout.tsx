@@ -7,7 +7,7 @@ import type { WebSite, WithContext } from "schema-dts";
 import { Providers } from "@/components/providers";
 import { META_THEME_COLORS, SITE_INFO } from "@/config/site";
 import { USER } from "@/features/profile/data/user";
-import { fontHandwriting, fontMono, fontSans } from "@/lib/fonts";
+import { fontHandwriting, fontMono, fontSans, fontPixel } from "@/lib/fonts";
 
 function getWebSiteJsonLd(): WithContext<WebSite> {
   return {
@@ -49,11 +49,11 @@ export const metadata: Metadata = {
   keywords: SITE_INFO.keywords,
   authors: [
     {
-      name: "abdulrehman",
+      name: "mohammadamin",
       url: SITE_INFO.url,
     },
   ],
-  creator: "abdulrehman",
+  creator: "mohammadamin",
   openGraph: {
     siteName: SITE_INFO.name,
     url: "/",
@@ -79,29 +79,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/favicon.ico",
-        sizes: "any",
-      },
-      {
-        url: "/images/brand/favicon.ico",
-        sizes: "any",
-      },
-      {
-        url: "/images/brand/favicon.svg",
+        url: "/favicon.svg",
         type: "image/svg+xml",
-      },
-      {
-        url: "/images/brand/apple-touch-icon.png",
-        type: "image/png",
-        sizes: "180x180",
+        sizes: "any",
       },
     ],
-    apple: {
-      url: "/images/brand/apple-touch-icon.png",
-      type: "image/png",
-      sizes: "180x180",
-    },
-    shortcut: "/favicon.ico",
+    shortcut: "/favicon.svg",
   },
 };
 
@@ -120,7 +103,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${fontSans.variable} ${fontMono.variable} ${fontHandwriting.variable}`}
+      className={`${fontSans.variable} ${fontMono.variable} ${fontHandwriting.variable} ${fontPixel.variable}`}
       suppressHydrationWarning
     >
       <head>

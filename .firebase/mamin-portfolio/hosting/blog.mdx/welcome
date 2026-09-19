@@ -1,0 +1,30 @@
+# Welcome to PMreza's Portfolio
+
+A modern developer portfolio and blog to showcase my work.
+
+## Hello, World!
+
+Welcome to my brand new portfolio website. I'm **Mohammad Amin Ahmadi** (also known as **PMreza**), a passionate developer who loves building beautiful, functional, and user-friendly web applications.
+
+This website serves as my personal corner on the internet where I can:
+
+* **Showcase my projects**: You'll find a collection of my latest work, side projects, and experiments.
+* **Share my knowledge**: I plan to use this blog to write about the things I learn, coding tutorials, and my tech journey.
+* **Connect**: Feel free to browse around, explore my components, or reach out to me!
+
+## The Tech Stack
+
+This site was built with modern web technologies, ensuring a fast, accessible, and smooth experience:
+
+* **Next.js 15** - React framework for fast, server-rendered applications.
+* **Tailwind CSS v4** - Utility-first CSS framework for rapid UI development.
+* **shadcn/ui** - Beautifully designed, accessible, and customizable components.
+
+I've also customized the design with a retro **pixel font (Silkscreen)** to give it a unique vibe that fits my style perfectly.
+
+## What's Next?
+
+I'll be updating this blog regularly with new content. Stay tuned for deeper dives into projects I've built, coding tips, and more. Thanks for stopping by!
+
+
+Last updated on September 19, 2026
